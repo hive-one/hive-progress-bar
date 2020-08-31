@@ -1,4 +1,4 @@
-# python-progress-bar
+# hive-progress-bar
 
 This is a simple package to show progress when doing some computations on a collection. It shows the number of items iterated and a time estimate for the remaining items.
 
