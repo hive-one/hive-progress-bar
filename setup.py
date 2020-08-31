@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="python-progress-bar",  # Replace with your own username
-    version="0.0.4",
+    name="hive-progress-bar",  # Replace with your own username
+    version="0.0.2",
     author="Heinrich Malan",
     author_email="heinrich@hive.one",
     description="A small progress bar for iterating over a collection and showing progress.",

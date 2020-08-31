@@ -6,13 +6,13 @@ It over-writes the same line that progress bar is on as the iteration continues.
 
 ## Installation
 
-`pip install python-progress-bar`
+`pip install hive-progress-bar`
 
 ## Usage
 
 ```
 import time
-from python_progress_bar import ProgressBar
+from hive_progress_bar import ProgressBar
 
 items = range(100)
 

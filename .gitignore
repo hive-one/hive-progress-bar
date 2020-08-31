@@ -1,4 +1,4 @@
 /test/*
 /build/*
 /dist/*
-/python_progress_bar.egg-info/*
+/hive_progress_bar.egg-info/*
